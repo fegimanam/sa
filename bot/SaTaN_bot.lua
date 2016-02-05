@@ -226,16 +226,15 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {118333567,75213323,139990182,121069994},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[sultan V 1.5
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
-    
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    @alifengi [DeVeLoPeR] 
+    @cloner_admin
+    @cloner_admin2
     
 ]],
     help_text_realm = [[
