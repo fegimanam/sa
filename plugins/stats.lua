@@ -141,7 +141,7 @@ return {
 		"stats: Return Stats Group.",
 		"statslist: Return Stats Group.",
 		"stats group [id]: Return Stats Group[id].",
-		"stats megasatan: Return Users And Groups Stats.",
+		"stats sultan: Return Users And Groups Stats.",
 		},
   patterns = {
     "^([Ss]tats)$",
